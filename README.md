@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 ⚡ Fun fact: I also produce electronic music under the alias Amin Chavez! 💃🕺
+        Listen Here: https://aminchavez.com/
+🌱 I’m currently studying Data Structures & Algorithms!
 
-    Listen Here: https://aminchavez.com/
 <!--
 **bmchavez/bmchavez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

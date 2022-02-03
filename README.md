@@ -3,7 +3,7 @@
         🌱 I’m currently studying Data Structures & Algorithms!
 
         ⚡ Fun fact: I also produce electronic music under the alias Amin Chavez! 💃🕺
-        Listen Here: aminchavez.com
+        Listen Here: [aminchavez.com](https://aminchavez.com/)
         
 This site was built using [GitHub Pages](https://pages.github.com/).
 <!--

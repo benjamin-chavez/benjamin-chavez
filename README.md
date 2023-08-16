@@ -1,7 +1,10 @@
 ### Hi there 👋
+  🔍 I’m currently working on [Ctrl-F Plus](https://github.com/ctrl-f-plus/ctrl-f-plus-chrome-extension): An open source browser extension that extends the browser's native Ctrl + F Find Feature to enable multi-tab word and phrase searching.
+  
+  
+  🚒 Le Wagon: Batch 370 in Berlin, Germany :de:
 
-        ⚡ Fun fact: I also produce electronic music under the alias Amin Chavez! 💃🕺
-        Listen Here: aminchavez.com
+  ⚡ Fun fact: I also produce electronic music under the alias [Amin Chavez](https://aminchavez.com/)! 💃🕺
         
 
 <!--
